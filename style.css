@@ -21,7 +21,7 @@
     transition: all 400ms ease;
 }
 
-.meme-generator.generator-btn:hover{
+.meme-generator .generator-btn:hover{
     padding: 8px 36px;
     border-left: 8px solid #222;
     border-right: 8px solid #222;
